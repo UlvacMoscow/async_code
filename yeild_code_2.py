@@ -17,6 +17,7 @@ result = concat_sequence(seq1, seq2)
 for el in result:
 	print(el, end=' ')
 
+print()
 result2 = concat_sequence_v2(seq1, seq2)
 
 for el in result2:
